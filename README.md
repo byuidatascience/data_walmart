@@ -8,7 +8,7 @@ data and data processing scripts for Walmart data
 
 I pulled data from [Thomas J. Holmes website](http://users.econ.umn.edu/~holmes/data/WalMart/).  The image below shows the [store openings CSV file](http://users.econ.umn.edu/~holmes/data/WalMart/store_openings.csv)
 
-![](img/homes_site.png)
+![](img/holmes_site.png)
 
 ### Spatial data
 
